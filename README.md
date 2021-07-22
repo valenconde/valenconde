@@ -34,7 +34,9 @@
 
 
 ## Contact me:
-https://www.linkedin.com/in/valentinaconde/
+
+[![Linkedin](https://img.shields.io/badge/-0536A5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()  https://www.linkedin.com/in/valentinaconde/
+
 
 
 
