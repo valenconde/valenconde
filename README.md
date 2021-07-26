@@ -10,7 +10,6 @@
 [![C](https://img.shields.io/badge/Lenguaje_C_(basico)-6588F5?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python_(basico)-F5E23F?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 [![HTML](https://img.shields.io/badge/HTML-FF7F00?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-008080?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -28,6 +27,8 @@
 
 
 <!--
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 
 [![JQuery](https://img.shields.io/badge/JQuery-087519?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
