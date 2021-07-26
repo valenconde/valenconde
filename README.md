@@ -1,7 +1,7 @@
 ### 👋 Bienvenidos 👋
 <br>
 🌱 Estudiante de Lic. Analisis de Sistemas en la Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA).<br>
-🌱 Estoy cursando actualmente en CODERHOUSE la carrera de DESARROLLADOR WEB FULL STACK.
+🌱 Estoy cursando actualmente la carrera de DESARROLLADOR WEB FULL STACK.
 <br>
 <br>
 
@@ -11,6 +11,9 @@
 [![Python](https://img.shields.io/badge/Python_(basico)-F5E23F?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
+[![HTML](https://img.shields.io/badge/HTML-FF7F00?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-008080?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 ## Contact me:
 
 💬 https://www.linkedin.com/in/valentinaconde/
@@ -39,8 +42,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-08933F?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 
 
-[![HTML](https://img.shields.io/badge/HTML-FF7F00?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-008080?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-78288C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-FFC0CB?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 
