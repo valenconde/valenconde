@@ -13,6 +13,12 @@
 
 [![HTML](https://img.shields.io/badge/HTML-FF7F00?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-008080?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-78288C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![SASS](https://img.shields.io/badge/SASS-FFC0CB?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
+
+[![Git](https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+
 ## Contact me:
 
 💬 https://www.linkedin.com/in/valentinaconde/
@@ -44,11 +50,9 @@
 
 
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-78288C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![SASS](https://img.shields.io/badge/SASS-FFC0CB?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 
-[![Git](https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+
+
 
 
 
