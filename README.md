@@ -1,7 +1,7 @@
 ### 👋 Bienvenidos 👋
 <br>
 🌱 Estudiante de Lic. Analisis de Sistemas en la Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA).<br>
-🌱 Cursando actualmente la carrera de DESARROLLADOR WEB FULL STACK.
+🌱 Cursando actualmente la carrera de DESARROLLADOR WEB FULL STACK en Coderhouse.
 <br>
 <br>
 
