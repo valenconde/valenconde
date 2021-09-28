@@ -1,4 +1,4 @@
-#  ¡Bienvenidos! <img src="https://github.com/valendelpilar/valendelpilar/blob/6745140503ad87d4706201ed3a204746a2f41be9/undraw_Super_thank_you_re_f8bo.svg" width="150px" height="150px" alt="thankful">
+#  <img src="https://github.com/valendelpilar/valendelpilar/blob/6745140503ad87d4706201ed3a204746a2f41be9/undraw_Super_thank_you_re_f8bo.svg" width="150px" height="150px" alt="thankful">  ¡Bienvenidos!  <img src="https://github.com/valendelpilar/valendelpilar/blob/6745140503ad87d4706201ed3a204746a2f41be9/undraw_Super_thank_you_re_f8bo.svg" width="150px" height="150px" alt="thankful"> 
 <br>
 🌱 Estudiante de Lic. Analisis de Sistemas en la Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA).<br>
 🌱 Cursando actualmente la carrera de DESARROLLADOR WEB FULL STACK en Coderhouse.
