@@ -1,7 +1,7 @@
  
 
-# <div>  <img src="https://github.com/valendelpilar/valendelpilar/blob/6745140503ad87d4706201ed3a204746a2f41be9/undraw_Super_thank_you_re_f8bo.svg" width="150px" height="150px" alt="thankful">  ¡Bienvenidos!  <img src="https://github.com/valendelpilar/valendelpilar/blob/6745140503ad87d4706201ed3a204746a2f41be9/undraw_Super_thank_you_re_f8bo.svg" width="150px" height="150px" alt="thankful"> </div>
-<br>
+# <div> ¡Bienvenidos! <br><br> Mi nombre es Valentina Conde y esta es mi pagina de GitHub <img src="https://github.com/valendelpilar/valendelpilar/blob/6745140503ad87d4706201ed3a204746a2f41be9/undraw_Super_thank_you_re_f8bo.svg" width="65px" height="65px" alt="thankful"></div>
+<br><br><br>
 
 
 <img src="https://github.com/valendelpilar/valendelpilar/blob/29cd7029875dd80db484f8b8967b0cfaa5e6c86b/estudios.png" alt="estudios" width="300px" height="auto">
