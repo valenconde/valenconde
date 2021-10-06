@@ -7,7 +7,7 @@
 <img src="https://github.com/valendelpilar/valendelpilar/blob/29cd7029875dd80db484f8b8967b0cfaa5e6c86b/estudios.png" alt="estudios" width="300px" height="auto">
 
 ### En proceso:
-#### 🌱 Lic. Analisis de Sistemas en la Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA).<br>
+#### 🌱 Tecnicatura Universitaria en Programacion en UTN.<br>
 #### 🌱 Carrera de DESARROLLADOR WEB FULL STACK en Coderhouse.
 <br>
 <br>
