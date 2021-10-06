@@ -37,6 +37,7 @@
 <img src="https://github.com/valendelpilar/valendelpilar/blob/7d75da6c86637954840f38449e227e211bb555b4/contactame.png" alt="contactame" width="300px" height="auto">
 <br>
 💬 https://www.linkedin.com/in/valentinaconde/
+💬 valentinadelpilarconde@gmail.com
 <hr>
 
 
