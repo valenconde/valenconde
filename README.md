@@ -56,8 +56,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-17ABC9?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-08933F?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 
+<hr>
 
-
+<img src="https://github.com/valenconde/valenconde/blob/dcb91b2fae16757d878da8b236749ce82af685c1/proyectos.png" alt="proximamente" width="300px" height="auto">
 
 
 <!--
