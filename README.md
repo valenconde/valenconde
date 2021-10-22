@@ -9,6 +9,10 @@
 ### En proceso:
 #### 🌱 Tecnicatura Universitaria en Programacion en UTN.<br>
 #### 🌱 Carrera de DESARROLLADOR WEB FULL STACK en Coderhouse.
+&nbsp; &nbsp; &nbsp; ✓ Desarrollo Web <br>
+&nbsp; &nbsp; &nbsp; ☐ Javascript <br>
+&nbsp; &nbsp; &nbsp; ☐ React JS <br>
+&nbsp; &nbsp; &nbsp; ☐ Backend <br>
 <br>
 <br>
 
