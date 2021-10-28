@@ -13,7 +13,7 @@
 &nbsp; &nbsp; &nbsp; 🔜 Javascript <br>
 &nbsp; &nbsp; &nbsp; ☐ React JS <br>
 &nbsp; &nbsp; &nbsp; ☐ Backend <br>
-#### 🔜 Marzo de 2022 -> Comienzo Tecnicatura en Programacion, UTN
+#### 🔜 En Marzo de 2022 estare comenzando Tecnicatura en Programacion en UTN.
 
 <br>
 <br>
