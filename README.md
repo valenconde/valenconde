@@ -76,7 +76,7 @@ Pagina de recetas sin gluten.
 
 <a href="https://github.com/valenconde/barchuk_SE"><img src="https://github.com/valenconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
 
-Catalogo de cosmeticos.
+Catalogo de cosmeticos. (En proceso...)
 
 
 <!--
