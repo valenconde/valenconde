@@ -64,17 +64,23 @@
 
 <hr>
 
-<img src="https://github.com/valenconde/valenconde/blob/dcb91b2fae16757d878da8b236749ce82af685c1/proyectos.png" alt="proximamente" width="300px" height="auto">
+<img src="https://github.com/valentinaconde/valentinaconde/blob/dcb91b2fae16757d878da8b236749ce82af685c1/proyectos.png" alt="proximamente" width="300px" height="auto">
 
 <br>
 
-<a href="https://github.com/valenconde/delaika"><img src="https://github.com/valenconde/delaika/blob/4ea37b7997b2ace8dd6dc27ce31420c944def365/multimedia/logotipo.png"></a>
+<a href="https://github.com/valentinaconde/delaika"><img src="https://github.com/valentinaconde/delaika/blob/4ea37b7997b2ace8dd6dc27ce31420c944def365/multimedia/logotipo.png"></a>
 
 Pagina de recetas sin gluten.
 
 <br><br>
 
-<a href="https://github.com/valenconde/barchuk_SE"><img src="https://github.com/valenconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
+<a href="https://github.com/valentinaconde/parallax"><img src="https://github.com/valentinaconde/parallax/blob/de2c8230eb79de44f7fbf1c18dd9dfa3925bfae1/multimedia/parallax.png"></a>
+
+Pagina estilo Parallax
+
+<br><br>
+
+<a href="https://github.com/valentinaconde/barchuk_SE"><img src="https://github.com/valentinaconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
 
 Catalogo de cosmeticos. (En proceso...)
 
