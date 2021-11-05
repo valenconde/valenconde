@@ -54,25 +54,25 @@
 
 <br>
 
-<a href="https://github.com/valentinaconde/delaika" target="_blank"><img src="https://github.com/valentinaconde/delaika/blob/4ea37b7997b2ace8dd6dc27ce31420c944def365/multimedia/logotipo.png"></a>
+<a href="https://github.com/valentinaconde/delaika"><img src="https://github.com/valentinaconde/delaika/blob/4ea37b7997b2ace8dd6dc27ce31420c944def365/multimedia/logotipo.png"></a>
 
 Pagina de recetas sin gluten.
 
 <br><br>
 
-<a href="https://github.com/valentinaconde/parallax" target="_blank"><img src="https://github.com/valentinaconde/parallax/blob/de2c8230eb79de44f7fbf1c18dd9dfa3925bfae1/multimedia/parallax.png"></a>
+<a href="https://github.com/valentinaconde/parallax"><img src="https://github.com/valentinaconde/parallax/blob/de2c8230eb79de44f7fbf1c18dd9dfa3925bfae1/multimedia/parallax.png"></a>
 
 Pagina estilo Parallax
 
 <br><br>
 
-<a href="https://valentinaconde.github.io/portfolio/" target="_blank"><img src="https://github.com/valentinaconde/valentinaconde/blob/f0a2a33d1b240f4e10c1fe5904d2a241c1f88686/portfolio.png"></a>
+<a href="https://github.com/valentinaconde/parallax"><img src="https://github.com/valentinaconde/valentinaconde/blob/f0a2a33d1b240f4e10c1fe5904d2a241c1f88686/portfolio.png"></a>
 
 Portfolio personal
 
 <br><br>
 
-<a href="https://github.com/valentinaconde/barchuk_SE" target="_blank"><img src="https://github.com/valentinaconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
+<a href="https://github.com/valentinaconde/barchuk_SE"><img src="https://github.com/valentinaconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
 
 Catalogo de cosmeticos. (En proceso...)
 
