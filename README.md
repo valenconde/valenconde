@@ -66,7 +66,7 @@ Pagina estilo Parallax
 
 <br><br>
 
-<a href"https://valentinaconde.github.io/portfolio/" target="_blank"><img src="https://github.com/valentinaconde/valentinaconde/blob/f0a2a33d1b240f4e10c1fe5904d2a241c1f88686/portfolio.png"></a>
+<a href="https://valentinaconde.github.io/portfolio/" target="_blank"><img src="https://github.com/valentinaconde/valentinaconde/blob/f0a2a33d1b240f4e10c1fe5904d2a241c1f88686/portfolio.png"></a>
 
 Portfolio personal
 
