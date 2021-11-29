@@ -72,6 +72,12 @@ Portfolio personal
 
 <br><br>
 
+<a href="https://github.com/valentinaconde/boniata"><img src="https://github.com/valentinaconde/boniata/blob/f0e23b8b58eb277f66e6fd9d31109c6ce7300509/multimedia/boniata_flyer.png"></a>
+
+Pagina web-shop de dietetica
+
+<br><br>
+
 <a href="https://github.com/valentinaconde/barchuk_SE"><img src="https://github.com/valentinaconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
 
 Catalogo de cosmeticos. (En proceso...)
