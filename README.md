@@ -56,37 +56,6 @@
 
 
 
-<img src="https://github.com/valentinaconde/valentinaconde/blob/dcb91b2fae16757d878da8b236749ce82af685c1/proyectos.png" alt="proximamente" width="300px" height="auto">
-
-<br>
-
-<a href="https://github.com/valentinaconde/delaika"><img src="https://github.com/valentinaconde/delaika/blob/4ea37b7997b2ace8dd6dc27ce31420c944def365/multimedia/logotipo.png"></a>
-
-Pagina de recetas sin gluten.
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/parallax"><img src="https://github.com/valentinaconde/parallax/blob/de2c8230eb79de44f7fbf1c18dd9dfa3925bfae1/multimedia/parallax.png"></a>
-
-Pagina estilo Parallax
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/portfolio"><img src="https://github.com/valentinaconde/valentinaconde/blob/f0a2a33d1b240f4e10c1fe5904d2a241c1f88686/portfolio.png"></a>
-
-Portfolio personal
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/boniata"><img src="https://github.com/valentinaconde/boniata/blob/f0e23b8b58eb277f66e6fd9d31109c6ce7300509/multimedia/boniata_flyer.png" style="width:500px"></a>
-
-Pagina web-shop de dietetica
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/barchuk_SE"><img src="https://github.com/valentinaconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
-
-Catalogo de cosmeticos. (En proceso...)
 
 
 <hr>
@@ -126,6 +95,41 @@ Catalogo de cosmeticos. (En proceso...)
 
 
 **valendelpilar/valendelpilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://github.com/valentinaconde/valentinaconde/blob/dcb91b2fae16757d878da8b236749ce82af685c1/proyectos.png" alt="proyectos" width="300px" height="auto">
+
+<br>
+
+
+<a href="https://github.com/valentinaconde/delaika"><img src="https://github.com/valentinaconde/delaika/blob/4ea37b7997b2ace8dd6dc27ce31420c944def365/multimedia/logotipo.png"></a>
+
+Pagina de recetas sin gluten.
+
+<br><br>
+
+<a href="https://github.com/valentinaconde/parallax"><img src="https://github.com/valentinaconde/parallax/blob/de2c8230eb79de44f7fbf1c18dd9dfa3925bfae1/multimedia/parallax.png"></a>
+
+Pagina estilo Parallax
+
+<br><br>
+
+<a href="https://github.com/valentinaconde/portfolio"><img src="https://github.com/valentinaconde/valentinaconde/blob/f0a2a33d1b240f4e10c1fe5904d2a241c1f88686/portfolio.png"></a>
+
+Portfolio personal
+
+<br><br>
+
+<a href="https://github.com/valentinaconde/boniata"><img src="https://github.com/valentinaconde/boniata/blob/f0e23b8b58eb277f66e6fd9d31109c6ce7300509/multimedia/boniata_flyer.png" style="width:500px"></a>
+
+Pagina web-shop de dietetica
+
+<br><br>
+
+<a href="https://github.com/valentinaconde/barchuk_SE"><img src="https://github.com/valentinaconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
+
+Catalogo de cosmeticos. (En proceso...)
+
+
 
 Here are some ideas to get you started:
 
