@@ -10,10 +10,10 @@
 #### 🌱 Licenciatura en Analisis de Sistemas, FIUBA.<br>
 #### 🌱 Carrera de DESARROLLADOR WEB FULL STACK en Coderhouse.
 &nbsp; &nbsp; &nbsp; ✓ Desarrollo Web <br>
-&nbsp; &nbsp; &nbsp; 🔜 Javascript <br>
-&nbsp; &nbsp; &nbsp; ☐ React JS <br>
+&nbsp; &nbsp; &nbsp; ✓ Javascript <br>
+&nbsp; &nbsp; &nbsp; 🔜 React JS <br>
 &nbsp; &nbsp; &nbsp; ☐ Backend <br>
-#### 🔜 En Marzo de 2022 estare comenzando Tecnicatura en Programacion en UTN.
+
 
 <br>
 <br>
