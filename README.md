@@ -47,8 +47,11 @@
 
 <img src="https://github.com/valendelpilar/valendelpilar/blob/7d75da6c86637954840f38449e227e211bb555b4/contactame.png" alt="contactame" width="300px" height="auto">
 <br>
-💬 https://www.linkedin.com/in/valentinaconde/  <br>
-💬 valentinadelpilarconde@gmail.com
+
+<a href="https://www.linkedin.com/in/valentinaconde/" target="_blank">Linkedin: Valentina Conde</a> 
+<br>
+<a href="mailto:valentinadelpilarconde@gmail.com" target="_blank">Mail: valentinadelpialrconde@gmail.com</a> 
+
 <hr>
 
 
