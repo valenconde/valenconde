@@ -6,13 +6,13 @@
 
 <img src="https://github.com/valendelpilar/valendelpilar/blob/29cd7029875dd80db484f8b8967b0cfaa5e6c86b/estudios.png" alt="estudios" width="300px" height="auto">
 
-### En proceso:
-#### 🌱 Tecnicatura Universitaria en Programacion.
+### Estudios:
+#### 🌱 Tecnicatura Universitaria en Programacion (en proceso).
 #### 🌱 Carrera de DESARROLLADOR WEB FULL STACK en Coderhouse.
 &nbsp; &nbsp; &nbsp; ✓ Desarrollo Web <br>
 &nbsp; &nbsp; &nbsp; ✓ Javascript <br>
-&nbsp; &nbsp; &nbsp; 🔜 React JS <br>
-&nbsp; &nbsp; &nbsp; ☐ Backend <br>
+&nbsp; &nbsp; &nbsp; ✓ React JS <br>
+&nbsp; &nbsp; &nbsp; 🔜 Backend <br>
 
 
 <br>
