@@ -3,10 +3,8 @@
 # <div> ¡Bienvenidos! <br><br> Mi nombre es Valentina Conde y esta es mi pagina GitHub</div>
 <br><br><br>
 
-
-
-![image](https://github.com/valentinaconde/valentinaconde/assets/68123729/1089566e-4cc8-483f-867d-dbdbb1004894)
-
+<img src="https://github.com/valentinaconde/valentinaconde/assets/68123729/82d1b39b-d928-41c5-8e33-692b8c52ceaf" alt="skills" width="300px" height="auto">
+<br>
 ### Estudios:
 #### 🌱 Tecnicatura Universitaria en Programacion (en proceso).
 #### 🌱 Carrera de DESARROLLADOR WEB FULL STACK en Coderhouse.
@@ -22,7 +20,7 @@
 <hr>
 
 
-![image])
+
 
 <img src="https://github.com/valentinaconde/valentinaconde/assets/68123729/46fb7aa9-d279-4fe3-9f90-30311a966bc2" alt="skills" width="300px" height="auto">
 <br>
@@ -53,7 +51,7 @@
 <hr>
 
 
-<img src="https://github.com/valendelpilar/valendelpilar/blob/7d75da6c86637954840f38449e227e211bb555b4/contactame.png" alt="contactame" width="300px" height="auto">
+<img src="https://github.com/valentinaconde/valentinaconde/assets/68123729/1089566e-4cc8-483f-867d-dbdbb1004894" alt="skills" width="300px" height="auto">
 <br>
 
 <a href="https://www.linkedin.com/in/valentinaconde/" target="_blank">Linkedin -> Valentina Conde</a> 
