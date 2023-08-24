@@ -73,6 +73,15 @@
 
 
 
+
+<hr>
+
+<!--
+
+
+
+
+** # <a href="https://valentinaconde.github.io/portfolio/" target="_blank"> LINK A MI PORTFOLIO</a> 
 <img src="https://github.com/valendelpilar/valendelpilar/blob/eec946f37eaf7621e2c41ac79d594cc25c4b4f4f/proximamente.png" alt="proximamente" width="300px" height="auto">
 
 
@@ -82,14 +91,8 @@
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-08933F?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 
-<hr>
 
-<!--
-
-
-
-
-** # <a href="https://valentinaconde.github.io/portfolio/" target="_blank"> LINK A MI PORTFOLIO</a> **
+**
 
 
 
