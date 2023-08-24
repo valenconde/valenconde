@@ -60,7 +60,7 @@
 ### CONTACTO
 <a href="https://www.linkedin.com/in/valentinaconde/" target="_blank">Linkedin: Valentina Conde</a> 
 <br>
-<a href="mailto:valentinadelpilarconde@gmail.com" target="_blank">Mail: Svalentinadelpilarconde@gmail.com</a> 
+<a href="mailto:valentinadelpilarconde@gmail.com" target="_blank">Mail: valentinadelpilarconde@gmail.com</a> 
 <br>
 
 
