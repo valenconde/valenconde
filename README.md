@@ -39,7 +39,7 @@
 [![JQuery](https://img.shields.io/badge/JQuery-087519?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-6B6363?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010)]()
 
-[![Adonis](https://img.shields.io/badge/Adonis-FF5733?style=for-the-badge&logo=adonis&logoColor=white&labelColor=101010)]()
+[![Adonis](https://img.shields.io/badge/Adonis-FF5733?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![React.JS](https://img.shields.io/badge/React.JS-0CB7F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-35C137?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
