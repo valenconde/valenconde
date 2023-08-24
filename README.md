@@ -1,6 +1,6 @@
  
 
-# <div> ¡Bienvenidos! <br><br> Mi nombre es Valentina Conde y esta es mi pagina GitHub <img src="https://github.com/valendelpilar/valendelpilar/blob/6745140503ad87d4706201ed3a204746a2f41be9/undraw_Super_thank_you_re_f8bo.svg" width="65px" height="65px" alt="thankful"></div>
+# <div> ¡Bienvenidos! <br><br> Mi nombre es Valentina Conde y esta es mi pagina GitHub</div>
 <br><br><br>
 
 
