@@ -1,4 +1,4 @@
-![image](https://github.com/valentinaconde/valentinaconde/assets/68123729/d6bef254-a6c6-4ad4-886b-3e9256af96d4) 
+
 
 # <div> ¡Bienvenidos! <br><br> Mi nombre es Valentina Conde y esta es mi pagina GitHub</div>
 <br><br><br>
@@ -22,8 +22,9 @@
 <hr>
 
 
+![image])
 
-<img src="https://github.com/valendelpilar/valendelpilar/blob/e6b5c7d6f7a8463c961f5e4288af52a261c17bdf/skills.png" alt="skills" width="300px" height="auto">
+<img src="https://github.com/valentinaconde/valentinaconde/assets/68123729/46fb7aa9-d279-4fe3-9f90-30311a966bc2" alt="skills" width="300px" height="auto">
 <br>
 
 [![C](https://img.shields.io/badge/Lenguaje_C_(basico)-6588F5?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
