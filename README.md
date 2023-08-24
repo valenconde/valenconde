@@ -1,10 +1,11 @@
- 
+![image](https://github.com/valentinaconde/valentinaconde/assets/68123729/d6bef254-a6c6-4ad4-886b-3e9256af96d4) 
 
 # <div> ¡Bienvenidos! <br><br> Mi nombre es Valentina Conde y esta es mi pagina GitHub</div>
 <br><br><br>
 
 
-<img src="https://github.com/valendelpilar/valendelpilar/blob/29cd7029875dd80db484f8b8967b0cfaa5e6c86b/estudios.png" alt="estudios" width="300px" height="auto">
+
+![image](https://github.com/valentinaconde/valentinaconde/assets/68123729/1089566e-4cc8-483f-867d-dbdbb1004894)
 
 ### Estudios:
 #### 🌱 Tecnicatura Universitaria en Programacion (en proceso).
@@ -79,7 +80,7 @@
 <!--
 
 
-
+** <img src="https://github.com/valendelpilar/valendelpilar/blob/29cd7029875dd80db484f8b8967b0cfaa5e6c86b/estudios.png" alt="estudios" width="300px" height="auto">
 
 ** # <a href="https://valentinaconde.github.io/portfolio/" target="_blank"> LINK A MI PORTFOLIO</a> 
 <img src="https://github.com/valendelpilar/valendelpilar/blob/eec946f37eaf7621e2c41ac79d594cc25c4b4f4f/proximamente.png" alt="proximamente" width="300px" height="auto">
