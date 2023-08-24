@@ -35,11 +35,14 @@
 [![SASS](https://img.shields.io/badge/SASS-FFC0CB?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-17ABC9?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![JQuery](https://img.shields.io/badge/JQuery-087519?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-6B6363?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010)]()
 [![React.JS](https://img.shields.io/badge/React.JS-0CB7F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-35C137?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 
+[![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
@@ -53,7 +56,9 @@
 <br>
 <a href="mailto:valentinadelpilarconde@gmail.com" target="_blank">Mail -> valentinadelpilarconde@gmail.com</a> 
 <br>
-# <a href="https://valentinaconde.github.io/portfolio/" target="_blank"> LINK A MI PORTFOLIO</a>
+
+
+
 
 <hr>
 
@@ -69,11 +74,10 @@
 <img src="https://github.com/valendelpilar/valendelpilar/blob/eec946f37eaf7621e2c41ac79d594cc25c4b4f4f/proximamente.png" alt="proximamente" width="300px" height="auto">
 
 
-[![Node.JS](https://img.shields.io/badge/Node.JS-35C137?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 
 [![EcmaScript](https://img.shields.io/badge/ES-Ecmascript-F9E65E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-17ABC9?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-08933F?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 
 <hr>
@@ -83,7 +87,7 @@
 
 
 
-
+** # <a href="https://valentinaconde.github.io/portfolio/" target="_blank"> LINK A MI PORTFOLIO</a> **
 
 
 
