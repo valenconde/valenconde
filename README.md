@@ -12,7 +12,7 @@
 &nbsp; &nbsp; &nbsp; ✓ Desarrollo Web <br>
 &nbsp; &nbsp; &nbsp; ✓ Javascript <br>
 &nbsp; &nbsp; &nbsp; ✓ React JS <br>
-&nbsp; &nbsp; &nbsp; 🔜 Backend <br>
+&nbsp; &nbsp; &nbsp; ✓ Backend <br>
 
 
 <br>
