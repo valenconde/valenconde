@@ -1,4 +1,4 @@
-<img src="https://github.com/valentinaconde/valentinaconde/blob/main/moon-5383710_1280.jpg" alt="proximamente" height="auto">
+<img src="https://github.com/valentinaconde/valentinaconde/blob/main/github-header-image%20(1).png" alt="proximamente" height="auto">
 
 
 # <div align="center"> 👋🏻 ¡Hi There! 👋🏻</div>
