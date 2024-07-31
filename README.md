@@ -1,7 +1,7 @@
 <img src="https://github.com/valentinaconde/valentinaconde/blob/main/moon-5383710_1280.jpg" alt="proximamente" height="auto">
 
 
-# <div style="text-align: center"> 👋🏻 ¡Hi There! 👋🏻</div>
+# <div style="display: flex; justify-content: center; align-items: center; width: 100vh;"> 👋🏻 ¡Hi There! 👋🏻</div>
 <br><br>
 
 ### About me 👩🏻‍💻
