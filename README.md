@@ -3,7 +3,7 @@
 # <div>👋🏻 ¡Hi There! 👋🏻 </div>
 <br><br>
 
-### ABOUT ME 👩🏻‍💻
+### About me 👩🏻‍💻
 - 💻 I’m working as software developer
 - 📚 Right now, I'm doing an university degree in programming.
 - 🌴 In my free time, I enjoy activities related to programming, such as working on personal projects, do crafts like knitting or pottery, and training.
