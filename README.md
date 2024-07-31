@@ -1,6 +1,6 @@
 
 
-# <div> 👋🏻 ¡Welcome! 👋🏻 </div>
+# <div>                                              👋🏻 ¡Welcome! 👋🏻 </div>
 <br><br>
 
 <img src="https://github.com/valentinaconde/valentinaconde/assets/68123729/82d1b39b-d928-41c5-8e33-692b8c52ceaf" alt="skills" width="300px" height="auto">
