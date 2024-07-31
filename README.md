@@ -1,7 +1,7 @@
-<img src="https://github.com/valentinaconde/valentinaconde/blob/main/moon-5383710_1280.jpg" alt="proximamente" height="auto">
+<img src="https://github.com/valentinaconde/valentinaconde/blob/main/free-photo-of-amanecer-paisaje-montanas-oscuro.jpeg" alt="proximamente" height="auto">
 
 
-# <div>👋🏻 ¡Hi There! 👋🏻 </div>
+# <div class="align-center">👋🏻 ¡Hi There! 👋🏻 </div>
 <br><br>
 
 ### About me 👩🏻‍💻
