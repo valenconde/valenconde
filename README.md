@@ -1,12 +1,9 @@
 
 
-# <div>👋🏻 ¡Welcome! 👋🏻 </div>
+# <div>👋🏻 ¡Hi There! 👋🏻 </div>
 <br><br>
 
-<img src="https://github.com/valentinaconde/valentinaconde/assets/68123729/82d1b39b-d928-41c5-8e33-692b8c52ceaf" alt="skills" width="300px" height="auto">
-<br>
-
-
+### 👩🏻‍💻 ABOUT ME 👩🏻‍💻
 - 💻 I’m working as software developer
 - 📚 Right now, I'm doing an university degree in programming.
 - 🌴 In my free time, I enjoy activities related to programming, such as working on personal projects, do crafts like knitting or pottery, and training.
@@ -17,11 +14,6 @@
 
 <hr>
 
-
-
-
-<img src="https://github.com/valentinaconde/valentinaconde/assets/68123729/46fb7aa9-d279-4fe3-9f90-30311a966bc2" alt="skills" width="300px" height="auto">
-<br>
 
 ### 🛠 LANGUAGES & TOOLS 🛠
 
