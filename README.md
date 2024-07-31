@@ -14,7 +14,71 @@
 
 ### Languages & Tools 🛠
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" alt="adonisjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
 <br>
+
+
+
+
+<hr>
+
+
+
+### Contact Me ☎
+<a href="https://www.linkedin.com/in/valentinaconde/" target="_blank">Linkedin: Valentina Conde</a> 
+<br>
+<a href="mailto:valentinadelpilarconde@gmail.com" target="_blank">Mail: valentinadelpilarconde@gmail.com</a> 
+<br>
+
+
+
+
+<hr>
+
+<--
 
 [![C](https://img.shields.io/badge/Lenguaje_C_(basico)-6588F5?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python_(basico)-F5E23F?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -39,98 +103,5 @@
 [![Git](https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
-<hr>
 
-
-
-### Contact Me ☎
-<a href="https://www.linkedin.com/in/valentinaconde/" target="_blank">Linkedin: Valentina Conde</a> 
-<br>
-<a href="mailto:valentinadelpilarconde@gmail.com" target="_blank">Mail: valentinadelpilarconde@gmail.com</a> 
-<br>
-
-
-
-
-<hr>
-
-<!--
-
-
-** <img src="https://github.com/valendelpilar/valendelpilar/blob/29cd7029875dd80db484f8b8967b0cfaa5e6c86b/estudios.png" alt="estudios" width="300px" height="auto">
-
-** # <a href="https://valentinaconde.github.io/portfolio/" target="_blank"> LINK A MI PORTFOLIO</a> 
-<img src="https://github.com/valendelpilar/valendelpilar/blob/eec946f37eaf7621e2c41ac79d594cc25c4b4f4f/proximamente.png" alt="proximamente" width="300px" height="auto">
-
-
-
-
-[![EcmaScript](https://img.shields.io/badge/ES-Ecmascript-F9E65E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-08933F?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
-
-
-**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**valendelpilar/valendelpilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://github.com/valentinaconde/valentinaconde/blob/dcb91b2fae16757d878da8b236749ce82af685c1/proyectos.png" alt="proyectos" width="300px" height="auto">
-
-<br>
-
-
-<a href="https://github.com/valentinaconde/delaika"><img src="https://github.com/valentinaconde/delaika/blob/4ea37b7997b2ace8dd6dc27ce31420c944def365/multimedia/logotipo.png"></a>
-
-Pagina de recetas sin gluten.
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/parallax"><img src="https://github.com/valentinaconde/parallax/blob/de2c8230eb79de44f7fbf1c18dd9dfa3925bfae1/multimedia/parallax.png"></a>
-
-Pagina estilo Parallax
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/portfolio"><img src="https://github.com/valentinaconde/valentinaconde/blob/f0a2a33d1b240f4e10c1fe5904d2a241c1f88686/portfolio.png"></a>
-
-Portfolio personal
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/boniata"><img src="https://github.com/valentinaconde/boniata/blob/f0e23b8b58eb277f66e6fd9d31109c6ce7300509/multimedia/boniata_flyer.png" style="width:500px"></a>
-
-Pagina web-shop de dietetica
-
-<br><br>
-
-<a href="https://github.com/valentinaconde/barchuk_SE"><img src="https://github.com/valentinaconde/barchuk_SE/blob/d442f3211e4c61865aadc1347ac12b74525ba4df/logotipo.png"></a>
-
-Catalogo de cosmeticos. (En proceso...)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
