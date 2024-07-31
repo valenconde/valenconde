@@ -15,6 +15,8 @@
 
 ### Languages & Tools 🛠
 
+<br>
+
 [![C](https://img.shields.io/badge/Lenguaje_C_(basico)-6588F5?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python_(basico)-F5E23F?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
