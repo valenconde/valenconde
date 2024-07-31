@@ -9,7 +9,6 @@
 - 🌴 In my free time, I enjoy activities related to programming, such as working on personal projects, do crafts like knitting or pottery, and training.
 
   
-<br>
 <hr>
 
 ### Languages & Tools 🛠
