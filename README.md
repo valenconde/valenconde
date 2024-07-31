@@ -10,7 +10,6 @@
 
   
 <br>
-<br>
 <hr>
 
 ### Languages & Tools 🛠
