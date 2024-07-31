@@ -1,7 +1,7 @@
 <img src="https://github.com/valentinaconde/valentinaconde/blob/main/free-photo-of-amanecer-paisaje-montanas-oscuro.jpeg" alt="proximamente" height="auto">
 
 
-# <div class="align-center">👋🏻 ¡Hi There! 👋🏻 </div>
+# <div class="text-center">👋🏻 ¡Hi There! 👋🏻 </div>
 <br><br>
 
 ### About me 👩🏻‍💻
